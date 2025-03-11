@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\bin\Debug\net8.0\Get array element.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\bin\Debug\net8.0\Get array element.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\bin\Debug\net8.0\Get array element.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\bin\Debug\net8.0\Get array element.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\bin\Debug\net8.0\Get array element.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\refint\Get array element.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\Get array element.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Get array element\Get array element\obj\Debug\net8.0\ref\Get array element.dll
